@@ -1,4 +1,4 @@
-package collectionFramework;
+package learn_CollectionFramework;
 
 import java.util.PriorityQueue;
 
